@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="${project.name}">
+
+	<bannerLeft>
+		<name>${project.name}</name>
+	</bannerLeft>
+
+	<publishDate format="yyyy-MMMM-dd HH:mm:ss" />
+
+	<body>
+
+		<links>  
+		   <item name="Github" href="${project.scm.url}" />
+		</links> 
+		
+		<!-- reports -->
+		${reports}
+
+	</body>
+
+</project>
