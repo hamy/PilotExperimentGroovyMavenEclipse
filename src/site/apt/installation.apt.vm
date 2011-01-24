@@ -1,0 +1,12 @@
+Installation
+
+  * Install JDK 1.6.
+  
+  * Install Eclipse Helios with EE support.
+  
+  * Install M2Eclipse Maven plug-in for Eclipse.
+  
+  * Install Groovy 2 plug-in for Eclipse: {{}}
+  
+  []
+   

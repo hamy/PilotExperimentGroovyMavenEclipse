@@ -1,1 +1,2 @@
-Pilot experiment that combines Groovy, Maven, and Eclipse.
+This is a simple demo project, that shows the development of a combined Groovy/Maven application 
+under Maven 3 and Eclipse Helios. 
